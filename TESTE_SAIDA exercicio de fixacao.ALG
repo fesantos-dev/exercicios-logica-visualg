@@ -2,13 +2,9 @@ Algoritmo "teste_saida"
 
 Var
 
-  produto1 : caractere
-  produto2 : caractere
-  preco1 : real
-  preco2 : real
-  idade : inteiro
-  codigo : real
-  genero : caractere
+  produto1, produto2, genero : caractere
+  preco1, preco2 : real
+  idade, codigo : inteiro
 
 
 Inicio
@@ -26,9 +22,10 @@ Inicio
  escreval("O produto ", produto1, " custa R$", preco1:8:2)
  escreval("O produto ", produto2, " custa R$", preco2:8:2)
  escreval
- escreval("Codigo = ", codigo:4:0)
+ escreval("Codigo = ", codigo)
  escreval
  escreval("Dados da pessoa: ", "genero ", genero, " e idade " ,idade)
+
 
 
 Fimalgoritmo
