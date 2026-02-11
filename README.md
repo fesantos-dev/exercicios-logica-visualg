@@ -1,4 +1,4 @@
-# Exercícios de Lógica - VisualG
+# Exercícios de Algoritmos - VisualG
 
 Exercícios desenvolvidos durante o curso de Algoritimos.
 
