@@ -1,6 +1,6 @@
-# Exercícios de Algoritmos - VisualG
+# Algoritmos e Lógica de Programação - Curso da Plataforma Udemy 
 
-Exercícios desenvolvidos durante o curso de Algoritimos.
+Exercícios desenvolvidos durante o curso.
 
 ## Conteúdos praticados:
 - Saída de dados
